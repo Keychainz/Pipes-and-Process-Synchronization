@@ -1,0 +1,4 @@
+State of the map:
+p0 -> 12
+p1 -> 12
+p2 -> 0
